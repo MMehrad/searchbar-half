@@ -1,0 +1,24 @@
+body {
+    direction: rtl;
+}
+
+.header-search-box {
+    float: right;
+}
+
+.header-search-box .search-box form input {
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.header-search-box .search-box .confirmed {
+    right: 66%;
+}
+
+.header-search-box .search-box .clear {
+    left: 66%;
+}
+
+.change-lang{
+    background-color: #44b422;
+}
